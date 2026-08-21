@@ -1,4 +1,14 @@
-# Nansen Skill
+# Nansen — AI-agent skill
+
+> **Generated distribution mirror.** The canonical source, issues, and releases live in [https://github.com/Vo1ganin/crypto-claude-skills](https://github.com/Vo1ganin/crypto-claude-skills). Do not hand-edit generated files in this repository.
+
+AI-agent skill for cross-chain wallet and Smart Money analytics with cost and credential safeguards.
+
+- Canonical skill: [https://github.com/Vo1ganin/crypto-claude-skills/tree/main/skills/nansen](https://github.com/Vo1ganin/crypto-claude-skills/tree/main/skills/nansen)
+- Collection: [https://github.com/Vo1ganin/crypto-claude-skills](https://github.com/Vo1ganin/crypto-claude-skills)
+- Provenance: [`.source.json`](.source.json)
+
+## Skill documentation
 
 Smart Money, wallet profiling, and token intelligence via [Nansen API](https://docs.nansen.ai) — 37 blockchains including Solana and Hyperliquid.
 
